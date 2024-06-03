@@ -1,4 +1,6 @@
-# Apache Proxy Protocol Module
+# Apache Proxy Protocol Module (Copernica Fork)
+
+**This fork is here so that we still have access to the sources if the upstream is ever removed**
 
 This is an [Apache](http://httpd.apache.org/) module that implements the
 server side of HAProxy's
